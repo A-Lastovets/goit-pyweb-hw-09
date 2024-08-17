@@ -1,0 +1,7 @@
+[TYPECHECK]
+
+# Ignore Mongoengine dynamic object attributes
+ignored-classes=Author,Quote
+
+# or ignore the specific error globally
+disable=no-member
